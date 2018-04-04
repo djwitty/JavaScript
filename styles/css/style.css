@@ -50,8 +50,23 @@ body {
   background: #fff; }
 
 #calendar {
-  width: 200px;
   padding: 1em;
   background: #ccc; }
+
+table.calendar {
+  background-color: white; }
+
+tr > th, tr > td {
+  padding: .2em .5em;
+  text-align: center; }
+
+strong {
+  font-weight: bold; }
+
+em {
+  font-style: italic; }
+
+td.today {
+  font-weight: bold; }
 
 /*# sourceMappingURL=style.css.map */
