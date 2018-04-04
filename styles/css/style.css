@@ -69,4 +69,7 @@ em {
 td.today {
   font-weight: bold; }
 
+td.isWeekend {
+  color: red; }
+
 /*# sourceMappingURL=style.css.map */
